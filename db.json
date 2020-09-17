@@ -63,7 +63,7 @@
 {
 "questionId": 5,
 "question": "Wat zou jij veranderen als je Nederland zou besturen voor een dag?",
-"questionType": 'open_question',
+"questionType": "open_question",
 "userAnswer": null
 }
 ]
